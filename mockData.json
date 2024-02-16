@@ -1,0 +1,22 @@
+{
+  "capsulesA": [
+    {
+      "__typename": "Capsule",
+      "id": "capsule-1"
+    },
+    {
+      "__typename": "Capsule",
+      "id": "capsule-2"
+    },
+    {
+      "__typename": "Capsule",
+      "id": "capsule-3"
+    }
+  ],
+  "capsulesB": [
+    {
+      "__typename": "Capsule",
+      "id": "capsule-4"
+    }
+  ]
+}
